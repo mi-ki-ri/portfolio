@@ -30,7 +30,7 @@ body{
   padding: 5px;
 }
 
-@media(max-width: 768px){
+@media(max-width: 375px){
   .header{
     height: auto;
     flex-wrap: wrap;
