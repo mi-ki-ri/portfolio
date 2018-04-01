@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/portfolio/</loc>
+    <lastmod>2018-04-01T20:19:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2018-04-01T20:12:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/luckey-tarot/</loc>
+    <lastmod>2018-04-01T19:32:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/light-rotation/</loc>
+    <lastmod>2018-04-01T19:10:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/my-tab-js/</loc>
+    <lastmod>2018-04-01T18:51:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-04-01T20:19:33+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

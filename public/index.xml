@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>堀田のポートフォリオ</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 堀田のポートフォリオ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 01 Apr 2018 20:19:33 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://example.org/portfolio/</link>
+      <pubDate>Sun, 01 Apr 2018 20:19:33 +0900</pubDate>
+      
+      <guid>http://example.org/portfolio/</guid>
+      <description>これって何？ このサイト自体です。
+堀田の実績を顧みることができます。
+使用した技術は？ 静的サイトジェネレーターであるHugoを使用しました。
+とても快適だったので、今後も何かあれば利用したいです。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 01 Apr 2018 20:12:49 +0900</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>ここって何？ 堀田のプロフィールや過去の仕事や趣味で作ったものをまとめたサイトです。
+主な目的は転職時のポートフォリオとして活用することですが、単純に過去の業績を見返して今後の役に立てたいというのもあります。
+あなたは誰？ 堀田と言います。
+1986年生まれのエンジニアです。
+「見切り発車P」の名前で作曲活動をしているので、その名義で作ったものが（特に趣味のプロジェクトでは）多いです。
+最近ではJavaScriptへの関心が強いです。
+音楽への興味も相まって、Web上にシンセサイザーを作れないかともくろんでいます。
+持っているスキルを教えて  PHP, 特にWordPressでのサイト制作 JavaScript, Vue.jsを利用したWebサイト制作 AWSの管理 Alexa Skill Kitの使用  今後の目標は？ 上にも書いたように音楽関連の技術を身に着けたいのと、
+最新の情報をうまくキャッチアップしてエンジニアとして上達して行きたいと思っています。</description>
+    </item>
+    
+    <item>
+      <title>LuckyTarot</title>
+      <link>http://example.org/luckey-tarot/</link>
+      <pubDate>Sun, 01 Apr 2018 19:32:38 +0900</pubDate>
+      
+      <guid>http://example.org/luckey-tarot/</guid>
+      <description>これって何？ スマートスピーカーのEchoなどに搭載された人工知能アシスタントであるAlexa、
+そのAlexaのスキルの一つを作成したものです。
+Alexaの公式アプリで「ラッキータロット」と検索すれば出てくると思います。
+何ができるの？ 「Alexa, ラッキータロットを開いて」と呼びかけることで起動し、
+ランダムにタロットカードを一つ選び、情報を読み上げます。
+「起動」しかコマンドがなく、ランダムに文字列を与えるだけだったので入門としてはよかったかなと思います。
+使用した技術は？ 基本的にAWSの公式に則って進めました。
+node.jsをAWS Lambda上で動かして作っています。</description>
+    </item>
+    
+    <item>
+      <title>LightRotation</title>
+      <link>http://example.org/light-rotation/</link>
+      <pubDate>Sun, 01 Apr 2018 19:10:43 +0900</pubDate>
+      
+      <guid>http://example.org/light-rotation/</guid>
+      <description>これって何？ Apple Musicのライブラリが肥大化しすぎたため、整理する用途で作った個人サイトです。
+https://light-rotation.mikiri.net/index.html
+「ローテーションぐあい」の順にアルバムを並べて表示しています（同じローテーションぐあいの場合はランダム）。
+使用した技術は？ API部分とフロント部分に分かれており、
+APIはWordPressを使用しました。
+APIにWordPressを利用することについては記事を書いているのでご参照ください。
+フロント部分はnuxt.jsを使用し、herokuにデプロイしています。</description>
+    </item>
+    
+    <item>
+      <title>MyTabJs</title>
+      <link>http://example.org/my-tab-js/</link>
+      <pubDate>Sun, 01 Apr 2018 18:51:28 +0900</pubDate>
+      
+      <guid>http://example.org/my-tab-js/</guid>
+      <description>これって何？ Web上でタブ譜を編集・演奏するという実験的なサイトです。
+http://mytab.mikiri.net/
+たてよこWebアワードに参加するために作りました。
+使用した技術は？ 基本的にJavaScriptで、
+Web Audio APIの操作にtone.js、
+DOM操作にjQueryを使用しています。</description>
+    </item>
+    
+  </channel>
+</rss>

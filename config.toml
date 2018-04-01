@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja"
+title = "堀田のポートフォリオ"
+
+[Params]
+description = "堀田が関わった作品・プロダクト・サイトなどの見本"
